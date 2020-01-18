@@ -1,6 +1,8 @@
 <configuration>
-    <username>USERNAME</username>
-    <password>PASSWORD</password>
-    <language>en</language>
-    <file_exists>SKIP</file_exists>
+  <username>mogolfiero</username>
+  <password>Teacup3306</password>
+  <language>en</language>
+  <file_exists>SKIP</file_exists>
+  <clientId>fcbd02bfee93446aaf7ef8017fc813e0</clientId>
+  <clientSecret>7ccad1d5deb14d11aedc7a59bc738112</clientSecret>
 </configuration>
